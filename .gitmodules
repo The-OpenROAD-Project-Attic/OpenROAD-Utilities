@@ -1,0 +1,6 @@
+[submodule "verilog-to-def/module/OpenSTA"]
+	path = verilog-to-def/module/OpenSTA
+	url = https://github.com/mgwoo/OpenSTA
+[submodule "verilog-to-def/module/sparsehash"]
+	path = verilog-to-def/module/sparsehash
+	url = https://github.com/sparsehash/sparsehash

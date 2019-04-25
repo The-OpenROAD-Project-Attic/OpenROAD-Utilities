@@ -1,0 +1,6 @@
+Name	STA Path Delay Value	SPICE Path Delay Value	Error	Relative Error(%)
+./work/sta_path_result/opensta_INVX2_slew0.02_load1.log	8.53e-09	4.4810151001815e-09	4.0489848998185e-09	47.4675838196776
+./work/sta_path_result/opensta_INVX2_slew0.04_load1.log	8.54e-09	4.4609600001853e-09	4.0790399998147e-09	47.7639344240597
+./work/sta_path_result/opensta_INVX2_slew0.08_load1.log	8.56e-09	4.4990216001856e-09	4.0609783998144e-09	47.4413364464299
+./work/sta_path_result/opensta_INVX2_slew0.2_load1.log	8.53e-09	4.5099732001852e-09	4.0200267998148e-09	47.128098473796
+Name	STA Path Delay Value	SPICE Path Delay Value	Error	Relative Error(%)

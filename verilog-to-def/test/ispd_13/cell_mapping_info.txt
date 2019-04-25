@@ -1,0 +1,331 @@
+in01s01 0 "a"  "o" 3
+in01s02 0 "a"  "o" 6
+in01s03 0 "a"  "o" 7
+in01s04 0 "a"  "o" 8
+in01s06 0 "a"  "o" 9
+in01s08 0 "a"  "o" 10
+in01s10 0 "a"  "o" 11
+in01s20 0 "a"  "o" 14
+in01s40 0 "a"  "o" 19
+in01s80 0 "a"  "o" 26
+in01m01 0 "a"  "o" 3
+in01m02 0 "a"  "o" 6
+in01m03 0 "a"  "o" 7
+in01m04 0 "a"  "o" 8
+in01m06 0 "a"  "o" 9
+in01m08 0 "a"  "o" 10
+in01m10 0 "a"  "o" 11
+in01m20 0 "a"  "o" 14
+in01m40 0 "a"  "o" 19
+in01m80 0 "a"  "o" 26
+in01f01 0 "a"  "o" 3
+in01f02 0 "a"  "o" 6
+in01f03 0 "a"  "o" 7
+in01f04 0 "a"  "o" 8
+in01f06 0 "a"  "o" 9
+in01f08 0 "a"  "o" 10
+in01f10 0 "a"  "o" 11
+in01f20 0 "a"  "o" 14
+in01f40 0 "a"  "o" 19
+in01f80 0 "a"  "o" 26
+na02s01 0 "a b"  "o" 3
+na02s02 0 "a b"  "o" 12
+na02s03 0 "a b"  "o" 15
+na02s04 0 "a b"  "o" 18
+na02s06 0 "a b"  "o" 22
+na02s08 0 "a b"  "o" 26
+na02s10 0 "a b"  "o" 29
+na02s20 0 "a b"  "o" 41
+na02s40 0 "a b"  "o" 57
+na02s80 0 "a b"  "o" 80
+na02m01 0 "a b"  "o" 3
+na02m02 0 "a b"  "o" 12
+na02m03 0 "a b"  "o" 15
+na02m04 0 "a b"  "o" 18
+na02m06 0 "a b"  "o" 22
+na02m08 0 "a b"  "o" 26
+na02m10 0 "a b"  "o" 29
+na02m20 0 "a b"  "o" 41
+na02m40 0 "a b"  "o" 57
+na02m80 0 "a b"  "o" 80
+na02f01 0 "a b"  "o" 3
+na02f02 0 "a b"  "o" 12
+na02f03 0 "a b"  "o" 15
+na02f04 0 "a b"  "o" 18
+na02f06 0 "a b"  "o" 22
+na02f08 0 "a b"  "o" 26
+na02f10 0 "a b"  "o" 29
+na02f20 0 "a b"  "o" 41
+na02f40 0 "a b"  "o" 57
+na02f80 0 "a b"  "o" 80
+na03s01 0 "a b c"  "o" 4
+na03s02 0 "a b c"  "o" 10
+na03s03 0 "a b c"  "o" 12
+na03s04 0 "a b c"  "o" 14
+na03s06 0 "a b c"  "o" 17
+na03s08 0 "a b c"  "o" 20
+na03s10 0 "a b c"  "o" 22
+na03s20 0 "a b c"  "o" 30
+na03s40 0 "a b c"  "o" 41
+na03s80 0 "a b c"  "o" 57
+na03m01 0 "a b c"  "o" 4
+na03m02 0 "a b c"  "o" 10
+na03m03 0 "a b c"  "o" 12
+na03m04 0 "a b c"  "o" 14
+na03m06 0 "a b c"  "o" 17
+na03m08 0 "a b c"  "o" 20
+na03m10 0 "a b c"  "o" 22
+na03m20 0 "a b c"  "o" 30
+na03m40 0 "a b c"  "o" 41
+na03m80 0 "a b c"  "o" 57
+na03f01 0 "a b c"  "o" 4
+na03f02 0 "a b c"  "o" 10
+na03f03 0 "a b c"  "o" 12
+na03f04 0 "a b c"  "o" 14
+na03f06 0 "a b c"  "o" 17
+na03f08 0 "a b c"  "o" 20
+na03f10 0 "a b c"  "o" 22
+na03f20 0 "a b c"  "o" 30
+na03f40 0 "a b c"  "o" 41
+na03f80 0 "a b c"  "o" 57
+na04s01 0 "a b c d"  "o" 4
+na04s02 0 "a b c d"  "o" 11
+na04s03 0 "a b c d"  "o" 14
+na04s04 0 "a b c d"  "o" 16
+na04s06 0 "a b c d"  "o" 19
+na04s08 0 "a b c d"  "o" 22
+na04s10 0 "a b c d"  "o" 24
+na04s20 0 "a b c d"  "o" 34
+na04s40 0 "a b c d"  "o" 46
+na04s80 0 "a b c d"  "o" 64
+na04m01 0 "a b c d"  "o" 4
+na04m02 0 "a b c d"  "o" 11
+na04m03 0 "a b c d"  "o" 14
+na04m04 0 "a b c d"  "o" 16
+na04m06 0 "a b c d"  "o" 19
+na04m08 0 "a b c d"  "o" 22
+na04m10 0 "a b c d"  "o" 24
+na04m20 0 "a b c d"  "o" 34
+na04m40 0 "a b c d"  "o" 46
+na04m80 0 "a b c d"  "o" 64
+na04f01 0 "a b c d"  "o" 4
+na04f02 0 "a b c d"  "o" 11
+na04f03 0 "a b c d"  "o" 14
+na04f04 0 "a b c d"  "o" 16
+na04f06 0 "a b c d"  "o" 19
+na04f08 0 "a b c d"  "o" 22
+na04f10 0 "a b c d"  "o" 24
+na04f20 0 "a b c d"  "o" 34
+na04f40 0 "a b c d"  "o" 46
+na04f80 0 "a b c d"  "o" 64
+no02s01 0 "a b"  "o" 3
+no02s02 0 "a b"  "o" 12
+no02s03 0 "a b"  "o" 15
+no02s04 0 "a b"  "o" 18
+no02s06 0 "a b"  "o" 22
+no02s08 0 "a b"  "o" 26
+no02s10 0 "a b"  "o" 29
+no02s20 0 "a b"  "o" 41
+no02s40 0 "a b"  "o" 57
+no02s80 0 "a b"  "o" 80
+no02m01 0 "a b"  "o" 3
+no02m02 0 "a b"  "o" 12
+no02m03 0 "a b"  "o" 15
+no02m04 0 "a b"  "o" 18
+no02m06 0 "a b"  "o" 22
+no02m08 0 "a b"  "o" 26
+no02m10 0 "a b"  "o" 29
+no02m20 0 "a b"  "o" 41
+no02m40 0 "a b"  "o" 57
+no02m80 0 "a b"  "o" 80
+no02f01 0 "a b"  "o" 3
+no02f02 0 "a b"  "o" 12
+no02f03 0 "a b"  "o" 15
+no02f04 0 "a b"  "o" 18
+no02f06 0 "a b"  "o" 22
+no02f08 0 "a b"  "o" 26
+no02f10 0 "a b"  "o" 29
+no02f20 0 "a b"  "o" 41
+no02f40 0 "a b"  "o" 57
+no02f80 0 "a b"  "o" 80
+no03s01 0 "a b c"  "o" 4
+no03s02 0 "a b c"  "o" 10
+no03s03 0 "a b c"  "o" 12
+no03s04 0 "a b c"  "o" 14
+no03s06 0 "a b c"  "o" 17
+no03s08 0 "a b c"  "o" 20
+no03s10 0 "a b c"  "o" 22
+no03s20 0 "a b c"  "o" 30
+no03s40 0 "a b c"  "o" 41
+no03s80 0 "a b c"  "o" 57
+no03m01 0 "a b c"  "o" 4
+no03m02 0 "a b c"  "o" 10
+no03m03 0 "a b c"  "o" 12
+no03m04 0 "a b c"  "o" 14
+no03m06 0 "a b c"  "o" 17
+no03m08 0 "a b c"  "o" 20
+no03m10 0 "a b c"  "o" 22
+no03m20 0 "a b c"  "o" 30
+no03m40 0 "a b c"  "o" 41
+no03m80 0 "a b c"  "o" 57
+no03f01 0 "a b c"  "o" 4
+no03f02 0 "a b c"  "o" 10
+no03f03 0 "a b c"  "o" 12
+no03f04 0 "a b c"  "o" 14
+no03f06 0 "a b c"  "o" 17
+no03f08 0 "a b c"  "o" 20
+no03f10 0 "a b c"  "o" 22
+no03f20 0 "a b c"  "o" 30
+no03f40 0 "a b c"  "o" 41
+no03f80 0 "a b c"  "o" 57
+no04s01 0 "a b c d"  "o" 4
+no04s02 0 "a b c d"  "o" 11
+no04s03 0 "a b c d"  "o" 14
+no04s04 0 "a b c d"  "o" 16
+no04s06 0 "a b c d"  "o" 19
+no04s08 0 "a b c d"  "o" 22
+no04s10 0 "a b c d"  "o" 24
+no04s20 0 "a b c d"  "o" 34
+no04s40 0 "a b c d"  "o" 46
+no04s80 0 "a b c d"  "o" 64
+no04m01 0 "a b c d"  "o" 4
+no04m02 0 "a b c d"  "o" 11
+no04m03 0 "a b c d"  "o" 14
+no04m04 0 "a b c d"  "o" 16
+no04m06 0 "a b c d"  "o" 19
+no04m08 0 "a b c d"  "o" 22
+no04m10 0 "a b c d"  "o" 24
+no04m20 0 "a b c d"  "o" 34
+no04m40 0 "a b c d"  "o" 46
+no04m80 0 "a b c d"  "o" 64
+no04f01 0 "a b c d"  "o" 4
+no04f02 0 "a b c d"  "o" 11
+no04f03 0 "a b c d"  "o" 14
+no04f04 0 "a b c d"  "o" 16
+no04f06 0 "a b c d"  "o" 19
+no04f08 0 "a b c d"  "o" 22
+no04f10 0 "a b c d"  "o" 24
+no04f20 0 "a b c d"  "o" 34
+no04f40 0 "a b c d"  "o" 46
+no04f80 0 "a b c d"  "o" 64
+ao12s01 0 "a b c"  "o" 4
+ao12s02 0 "a b c"  "o" 10
+ao12s03 0 "a b c"  "o" 12
+ao12s04 0 "a b c"  "o" 14
+ao12s06 0 "a b c"  "o" 17
+ao12s08 0 "a b c"  "o" 20
+ao12s10 0 "a b c"  "o" 22
+ao12s20 0 "a b c"  "o" 30
+ao12s40 0 "a b c"  "o" 41
+ao12s80 0 "a b c"  "o" 57
+ao12m01 0 "a b c"  "o" 4
+ao12m02 0 "a b c"  "o" 10
+ao12m03 0 "a b c"  "o" 12
+ao12m04 0 "a b c"  "o" 14
+ao12m06 0 "a b c"  "o" 17
+ao12m08 0 "a b c"  "o" 20
+ao12m10 0 "a b c"  "o" 22
+ao12m20 0 "a b c"  "o" 30
+ao12m40 0 "a b c"  "o" 41
+ao12m80 0 "a b c"  "o" 57
+ao12f01 0 "a b c"  "o" 4
+ao12f02 0 "a b c"  "o" 10
+ao12f03 0 "a b c"  "o" 12
+ao12f04 0 "a b c"  "o" 14
+ao12f06 0 "a b c"  "o" 17
+ao12f08 0 "a b c"  "o" 20
+ao12f10 0 "a b c"  "o" 22
+ao12f20 0 "a b c"  "o" 30
+ao12f40 0 "a b c"  "o" 41
+ao12f80 0 "a b c"  "o" 57
+ao22s01 0 "a b c d"  "o" 4
+ao22s02 0 "a b c d"  "o" 11
+ao22s03 0 "a b c d"  "o" 14
+ao22s04 0 "a b c d"  "o" 16
+ao22s06 0 "a b c d"  "o" 19
+ao22s08 0 "a b c d"  "o" 22
+ao22s10 0 "a b c d"  "o" 24
+ao22s20 0 "a b c d"  "o" 34
+ao22s40 0 "a b c d"  "o" 46
+ao22s80 0 "a b c d"  "o" 64
+ao22m01 0 "a b c d"  "o" 4
+ao22m02 0 "a b c d"  "o" 11
+ao22m03 0 "a b c d"  "o" 14
+ao22m04 0 "a b c d"  "o" 16
+ao22m06 0 "a b c d"  "o" 19
+ao22m08 0 "a b c d"  "o" 22
+ao22m10 0 "a b c d"  "o" 24
+ao22m20 0 "a b c d"  "o" 34
+ao22m40 0 "a b c d"  "o" 46
+ao22m80 0 "a b c d"  "o" 64
+ao22f01 0 "a b c d"  "o" 4
+ao22f02 0 "a b c d"  "o" 11
+ao22f03 0 "a b c d"  "o" 14
+ao22f04 0 "a b c d"  "o" 16
+ao22f06 0 "a b c d"  "o" 19
+ao22f08 0 "a b c d"  "o" 22
+ao22f10 0 "a b c d"  "o" 24
+ao22f20 0 "a b c d"  "o" 34
+ao22f40 0 "a b c d"  "o" 46
+ao22f80 0 "a b c d"  "o" 64
+oa12s01 0 "a b c"  "o" 4
+oa12s02 0 "a b c"  "o" 10
+oa12s03 0 "a b c"  "o" 12
+oa12s04 0 "a b c"  "o" 14
+oa12s06 0 "a b c"  "o" 17
+oa12s08 0 "a b c"  "o" 20
+oa12s10 0 "a b c"  "o" 22
+oa12s20 0 "a b c"  "o" 30
+oa12s40 0 "a b c"  "o" 41
+oa12s80 0 "a b c"  "o" 57
+oa12m01 0 "a b c"  "o" 4
+oa12m02 0 "a b c"  "o" 10
+oa12m03 0 "a b c"  "o" 12
+oa12m04 0 "a b c"  "o" 14
+oa12m06 0 "a b c"  "o" 17
+oa12m08 0 "a b c"  "o" 20
+oa12m10 0 "a b c"  "o" 22
+oa12m20 0 "a b c"  "o" 30
+oa12m40 0 "a b c"  "o" 41
+oa12m80 0 "a b c"  "o" 57
+oa12f01 0 "a b c"  "o" 4
+oa12f02 0 "a b c"  "o" 10
+oa12f03 0 "a b c"  "o" 12
+oa12f04 0 "a b c"  "o" 14
+oa12f06 0 "a b c"  "o" 17
+oa12f08 0 "a b c"  "o" 20
+oa12f10 0 "a b c"  "o" 22
+oa12f20 0 "a b c"  "o" 30
+oa12f40 0 "a b c"  "o" 41
+oa12f80 0 "a b c"  "o" 57
+oa22s01 0 "a b c d"  "o" 4
+oa22s02 0 "a b c d"  "o" 11
+oa22s03 0 "a b c d"  "o" 14
+oa22s04 0 "a b c d"  "o" 16
+oa22s06 0 "a b c d"  "o" 19
+oa22s08 0 "a b c d"  "o" 22
+oa22s10 0 "a b c d"  "o" 24
+oa22s20 0 "a b c d"  "o" 34
+oa22s40 0 "a b c d"  "o" 46
+oa22s80 0 "a b c d"  "o" 64
+oa22m01 0 "a b c d"  "o" 4
+oa22m02 0 "a b c d"  "o" 11
+oa22m03 0 "a b c d"  "o" 14
+oa22m04 0 "a b c d"  "o" 16
+oa22m06 0 "a b c d"  "o" 19
+oa22m08 0 "a b c d"  "o" 22
+oa22m10 0 "a b c d"  "o" 24
+oa22m20 0 "a b c d"  "o" 34
+oa22m40 0 "a b c d"  "o" 46
+oa22m80 0 "a b c d"  "o" 64
+oa22f01 0 "a b c d"  "o" 4
+oa22f02 0 "a b c d"  "o" 11
+oa22f03 0 "a b c d"  "o" 14
+oa22f04 0 "a b c d"  "o" 16
+oa22f06 0 "a b c d"  "o" 19
+oa22f08 0 "a b c d"  "o" 22
+oa22f10 0 "a b c d"  "o" 24
+oa22f20 0 "a b c d"  "o" 34
+oa22f40 0 "a b c d"  "o" 46
+oa22f80 0 "a b c d"  "o" 64
+ms00f80 1 "ck d"  "o" 20

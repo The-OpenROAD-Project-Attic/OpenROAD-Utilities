@@ -1,0 +1,7 @@
+Summary file: OpenSTA_Free45PDK
+Passed: 132
+Failed: 0
+abs error mean 1.17e-10, abs error standard deviation: 5.95e-10
+rel error mean 3.003061, rel error standard deviation: 11.631739
+Status:  Failed
+( mean + standard deviation < 5ps )

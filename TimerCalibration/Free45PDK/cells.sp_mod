@@ -1,0 +1,16 @@
+
+.SUBCKT AND2X1 Y B vdd gnd A
+M0 a_2_6# A vdd vdd pmos w=0.5u l=0.05u
++ ad=0p pd=0u as=0p ps=0u 
+M1 vdd B a_2_6# vdd pmos w=0.5u l=0.05u
++ ad=0p pd=0u as=0p ps=0u 
+M2 Y a_2_6# vdd vdd pmos w=0.5u l=0.05u
++ ad=0p pd=0u as=0p ps=0u 
+M3 a_9_6# A a_2_6# gnd nmos w=0.5u l=0.05u
++ ad=0p pd=0u as=0p ps=0u 
+M4 gnd B a_9_6# gnd nmos w=0.5u l=0.05u
++ ad=0p pd=0u as=0p ps=0u 
+M5 Y a_2_6# gnd gnd nmos w=0.25u l=0.05u
++ ad=0p pd=0u as=0p ps=0u 
+.ENDS
+

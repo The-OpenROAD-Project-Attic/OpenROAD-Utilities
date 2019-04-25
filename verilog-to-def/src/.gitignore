@@ -1,0 +1,9 @@
+*.txt
+*.pins
+*.o
+*.sh
+*.py
+*.def
+*.log
+tags
+defgenerator
