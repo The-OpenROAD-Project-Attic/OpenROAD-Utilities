@@ -1,14 +1,9 @@
 ///////////////////////////////////////////////////////////////////////////////
-// Authors: Ilgweon Kang and Lutong Wang
-//          (respective Ph.D. advisors: Chung-Kuan Cheng, Andrew B. Kahng),
-//          based on Dr. Jingwei Lu with ePlace and ePlace-MS
-//
-//          Many subsequent improvements were made by Mingyu Woo
-//          leading up to the initial release.
+// Authors: Mingyu Woo
 //
 // BSD 3-Clause License
 //
-// Copyright (c) 2018, The Regents of the University of California
+// Copyright (c) 2019, The Regents of the University of California
 // All rights reserved.
 //
 // Redistribution and use in source and binary forms, with or without
