@@ -1,7 +1,7 @@
 # OpenROAD-Utilities
 
-Useful utilities list from OpenROAD projects.
+Useful utilities from the OpenROAD project.
 
 * [Verilog to DEF translator](/verilog-to-def)
 * [Timer Calibration](/TimerCalibration)
-* [DEF to GDSII](/def-to-gdsii)
+* [RoutedDEF to MergedGDSII](/def-to-gdsii)
