@@ -4,4 +4,4 @@ Useful utilities from the OpenROAD project.
 
 * [Verilog to DEF translator](/verilog-to-def)
 * [Timer Calibration](/TimerCalibration)
-* [RoutedDEF to MergedGDSII](/def-to-gdsii)
+* [DEF to GDSII](/def-to-gdsii)
