@@ -1,0 +1,446 @@
+tech
+    format 32
+    XXXX065
+end
+
+version
+    version 20190511
+    description "XXXX 65nm"
+end
+
+planes
+  well,w
+  active,a
+  poly,p
+  contact,c
+  metal1,m1
+  via1,v1
+  metal2,m2
+  via2,v2
+  metal3,m3
+  via3,v3
+  metal4,m4
+  via4,v4
+  metal5,m5
+  via5,v5
+  metal6,m6
+  via6,v6
+  metal7,m7
+  via7,v7
+  metal8,m8
+  text
+  text1
+  text2
+  text3
+  vth_n
+  vth_p
+  vtl_n
+  vtl_p
+  nw_pin
+  diodmy
+  od_25
+  tap
+end
+
+types
+  well NW,nw,nwell,NW_PIN
+  well PW,pw,pwell
+  od_25 od_25
+  tap tap
+  diodmy diodmy
+  nw_pin nw_pin
+  vth_n vth_n
+  vth_p vth_p
+  vtl_n vtl_n
+  vtl_p vtl_p
+  active OD,od
+  poly PO,po
+  contact CO,co
+  metal1 M1,m1
+  via1 VIA1,via1,v1
+  metal2 M2,m2
+  via2 VIA2,via2,v2
+  metal3 M3,m3
+  via3 VIA3,via3,v3
+  metal4 M4,m4
+  via4 VIA4,via4,v4
+  metal5 M5,m5
+  via5 VIA5,via5,v5
+  metal6 M6,m6
+  via6 VIA6,via6,v6
+  metal7 M7,m7
+  via7 VIA7,via7,v7
+  metal8 M8,m8
+  text text
+  text1 text1
+  text2 text2
+  text3 text3
+end
+
+contact
+  co po co m1
+  via1 m1 v1 m2
+  via2 m2 v2 m3
+  via3 m3 v3 m4
+  via4 m4 v4 m5
+  via5 m5 v5 m6
+  via6 m6 v6 m7
+  via7 m7 v7 m8
+end
+
+styles
+  nwell  nwell
+  pwell  pwell
+  od	 ndiffusion
+  po     polysilicon
+  co	 comment
+  m1	 metal1
+  via1	 via1
+  m2	 metal2
+  via2	 via2
+  m3	 metal3
+  via3   via3
+  m4	 metal4
+  via4   via4
+  m5	 metal5
+  via5   via5
+  m6	 metal6 
+  via6   via6
+  m7	 metal7
+  via7   via7
+  m8	 metal8
+  text	 comment
+  text1	 comment
+  text2	 comment
+  text3	 comment
+  diodmy      emitter
+  vtl_p       pselect
+  vtl_n       nselect
+  vth_p       pselect2
+  vth_n       nselect2
+  od_25       mvndiff
+  tap         ndiff_in_nwell  
+  
+end
+
+compose
+end
+
+connect
+end
+
+cifoutput
+ style XXXX065
+ scalefactor 10 nanometers
+ options calma-permissive-labels
+
+ layer TEXT text
+ labels text
+ calma 63 63
+
+ layer TEXT1 text1
+ labels text1
+ calma 97 20
+
+ layer TEXT2 text2
+ labels text2
+ calma 3 20
+
+ layer TEXT3 text3
+ labels text3
+ calma 127 0
+
+ layer OD od
+ calma 6 0
+
+ layer OD_25 od_25
+ calma 18 0
+
+ layer TAP tap
+ calma 222 22
+
+ layer PO po
+ calma 17 0 
+
+ layer PW pwell
+ calma 25 0
+
+ layer NW nwell
+ calma 26 0
+
+ layer DIODMY diodmy
+ calma 129 0
+
+ layer NW_PIN
+ labels nwell port
+ calma 3 0
+
+ layer PRB
+ boundary
+ calma 108 0
+
+ layer VTL_P vtl_p
+ calma 13 0
+
+ layer VTL_N vtl_n
+ calma 12 0
+
+ layer VTH_P vth_p
+ calma 68 0
+
+ layer VTH_N vth_n
+ calma 67 0
+
+ layer CO co
+ calma 30 0
+
+ layer M1 m1
+ calma 31 0
+
+ layer M1TXT
+ labels m1 port
+ calma 131 0
+
+ layer M2 m2
+ calma 32 0
+
+ layer M3 m3
+ calma 33 0
+
+ layer M4 m4
+ calma 34 0
+
+ layer M5 m5
+ calma 35 0
+
+ layer M6 m6
+ calma 36 0
+
+ layer M7 m7
+ calma 37 0
+
+ layer M8 m8
+ calma 38 0
+
+ layer V1 via1
+ calma 51 0
+
+ layer V2 via2
+ calma 52 0
+
+ layer V3 via3
+ calma 53 0
+
+ layer V4 via4
+ calma 54 0
+
+ layer V5 via5
+ calma 55 0
+
+ layer V6 via6
+ calma 56 0
+
+ layer V7 via7
+ calma 57 0
+
+end
+
+cifinput
+ style XXXX065
+ scalefactor 10 nanometers
+ gridlimit 5
+
+ options ignore-unknown-layer-labels
+ options no-reconnect-labels
+
+ layer text TEXT
+ labels TEXT
+ calma TEXT 63 63
+
+ layer text1 TEXT1
+ labels TEXT1
+ calma TEXT1 97 20
+
+ layer text2 TEXT2
+ labels TEXT2
+ calma TEXT2 3 20
+
+ layer text3 TEXT3
+ labels TEXT3
+ calma TEXT3 127 0
+
+ layer od OD
+ calma OD 6 0
+
+ layer od_25 OD_25
+ calma OD_25 18 0
+
+ layer tap TAP
+ calma TAP 222 22
+
+ layer po PO
+ calma PO 17 0 
+
+ layer diodmy DIODMY
+ calma DIODMY 119 0
+
+ templayer cellbound PRB
+ boundary
+ calma PRB 108 0
+
+ layer pwell PW
+ calma PW 25 0
+
+ layer nwell NW
+ calma NW 26 0
+
+ layer nwell nwell,NW_PIN
+ labels NW_PIN port
+ calma nwell 26 0
+ calma NW_PIN 3 0
+
+ layer vth_n VTH_N
+ calma VTH_N 67 0
+
+ layer vth_p VTH_P
+ calma VTH_P 68 0
+
+ layer vtl_n VTL_N
+ calma VTL_N 12 0
+
+ layer vtl_p VTL_P
+ calma VTL_P 13 0
+
+ layer co CO
+ calma CO 30 0
+
+ layer m1 M1,M1TXT
+ labels M1TXT port
+ calma M1 31 0
+ calma M1TXT 131 0
+
+ layer m2 M2
+ calma M2 32 0
+
+ layer m3 M3
+ calma M3 33 0
+
+ layer m4 M4
+ calma M4 34 0
+
+ layer m5 M5
+ calma M5 35 0
+
+ layer m6 M6
+ calma M6 36 0
+
+ layer m7 M7
+ calma M7 37 0
+
+ layer m8 M8
+ calma M8 38 0
+
+ layer via1 V1
+ calma V1 51 0
+
+ layer via2 V2
+ calma V2 52 0
+
+ layer via3 V3
+ calma V3 53 0
+
+ layer via4 V4
+ calma V4 54 0
+
+ layer via5 V5
+ calma V5 55 0
+
+ layer via6 V6
+ calma V6 56 0
+
+ layer via7 V7
+ calma V7 57 0
+
+end
+
+mzrouter
+end
+
+drc
+end
+
+extract
+ style XXXX065
+ cscale 1
+ lambda 1.0
+ units microns
+ step 50
+ sidehalo 4
+
+ planeorder well    0
+ planeorder active  1
+ planeorder poly    2
+ planeorder contact 3
+ planeorder metal1  4
+ planeorder via1    5
+ planeorder metal2  6
+ planeorder via2    7
+ planeorder metal3  8
+ planeorder via3    9
+ planeorder metal4 10
+ planeorder via4   11
+ planeorder metal5 12
+ planeorder via5   13
+ planeorder metal6 14
+ planeorder via6   15
+ planeorder metal7 16
+ planeorder via7   17
+ planeorder metal8 18
+ planeorder text   19
+ planeorder text1  20
+ planeorder text2  21
+ planeorder text3  22
+ planeorder vth_n  23
+ planeorder vth_p  24
+ planeorder vtl_n  25
+ planeorder vtl_p  26
+ planeorder nw_pin 27
+ planeorder diodmy 28
+ planeorder od_25  29
+ planeorder tap  30
+end
+
+wiring
+end
+
+router
+end
+
+plowing
+end
+
+plot
+end
+
+
+lef 
+	masterslice	od	diffusion	active OD  od
+	masterslice	po	PO po poly	POLY1	pl	 
+ 	routing	m1	m1	M1 metal1	METAL1	METAL_1
+ 	routing	m2	m2	M2 metal2	METAL2	METAL_2
+ 	routing	m3	m3	M3 metal3	METAL3	METAL_3
+ 	routing	m4	m4	M4 metal4	METAL4	METAL_4
+ 	routing	m5	m5	M5 metal5	METAL5  METAL_5
+ 	routing	m6	m6	M6 metal6	METAL6  METAL_6
+ 	routing	m7	m7	M7 metal7	METAL7  METAL_7
+ 	routing	m8	m8	M8 metal8	METAL8  METAL_8
+ 	 	 	 	 	 	 
+ 	cut	co	cont1	pl-m1	 co CO	 
+ 	cut	via1	VIA1 via1	cont2	VIA12	m1-m2
+ 	cut	via2	VIA2 via2	cont3	VIA23	m2-m3
+ 	cut	via3	VIA3 via3	cont4	VIA34	m3-m4
+ 	cut	via4	VIA4 via4	cont5	VIA45	m4-m5
+ 	cut	via5	VIA5 via5	cont6	VIA56	m5-m6
+ 	cut	via6	VIA6 via6	cont7	VIA67	m6-m7
+ 	cut	via7	VIA7 via7	cont8	VIA78	m7-m8
+end
